@@ -1,4 +1,4 @@
-# Author:  Kpodovzky
+# Author:  יְהוֹשֻׁעַ‬
 # Email:   josue@kpodovzky.org
 # GitHub:  https://github.com/Kpodovzky
 # Licence: GNU GPL v3
