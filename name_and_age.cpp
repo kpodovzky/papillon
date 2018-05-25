@@ -1,3 +1,10 @@
+# Author:  Kpodovzky
+# Email:   josue@kpodovzky.org
+# GitHub:  https://github.com/Kpodovzky
+# Licence: GNU GPL v3
+# Website: https://kpodovzky.org
+# Info: Classic Hello Word!
+
 #include<iostream>
 #include<string>
 #include<vector>
@@ -20,7 +27,7 @@ int main()
 	cout << "Age: ";
 	cin >> age;
 
-	cout << first << " " << last << ", you are just " << age*12 << " months\n";
+	cout << "Hello "<< first << " " << last << "! You are just " << age*12 << " months\n";
 
 	
 
